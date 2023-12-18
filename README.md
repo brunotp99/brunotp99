@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Next.JS & Advanced Node.JS with Typescript 😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/brunotp99/github-readme-stats)
+[![Brunotp99 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunotp99)](https://github.com/brunotp99/github-readme-stats)
