@@ -18,3 +18,9 @@ As we explore the endless possibilities of technology, let us heed the timeless 
   <img align="center" alt="brunotp99-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="brunotp99-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunotp99/brunotp99/abc5f706c5970069dec866c09afcadc36764d42d/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunotp99/brunotp99/abc5f706c5970069dec866c09afcadc36764d42d/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/brunotp99/brunotp99/abc5f706c5970069dec866c09afcadc36764d42d/github-snake.svg" />
+</picture>
